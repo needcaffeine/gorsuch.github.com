@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing check_http
-url:  /blog/2012/08/27/introducing-check-http/
+url:  /2012/08/27/introducing-check-http/
 categories:
   - monitoring
 ---
